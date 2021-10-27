@@ -1,0 +1,16 @@
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.GlobalUsings.g.cs
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.csproj.AssemblyReference.cache
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.AssemblyInfoInputs.cache
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.AssemblyInfo.cs
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\bin\Debug\net6.0\Proj_01.exe
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\bin\Debug\net6.0\Proj_01.deps.json
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\bin\Debug\net6.0\Proj_01.runtimeconfig.json
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\bin\Debug\net6.0\Proj_01.dll
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\bin\Debug\net6.0\ref\Proj_01.dll
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\bin\Debug\net6.0\Proj_01.pdb
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.dll
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\ref\Proj_01.dll
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.pdb
+C:\Users\Оля\Documents\My_project\Projectes\Proj_01\obj\Debug\net6.0\Proj_01.genruntimeconfig.cache
